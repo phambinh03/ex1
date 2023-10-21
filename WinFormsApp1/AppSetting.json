@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "CustDatabase": "Server=LAPTOP-U746S3SE; Database=Midterm_Docnet; Integrated Security=True;TrustServerCertificate=True"
+  }
+}
+
